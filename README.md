@@ -1,5 +1,5 @@
 # self-organising-map
-A codebase for the phonene SOP Challenge
+A codebase to explore a self organising map to visualize high dimension data as an image.
 
 ## Requirements
 - Docker
